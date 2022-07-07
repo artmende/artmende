@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+### I'm Artur, a programming student at [19 coding school](http://www.s19.be) ([42 network](https://42.fr/en/homepage/)).
+
 <!--
 **artmende/artmende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
