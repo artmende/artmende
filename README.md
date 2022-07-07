@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Artur
 
-
-### I'm Artur, a programming student at [19 coding school](http://www.s19.be) ([42 network](https://42.fr/en/homepage/)).
+- Programmer based in Brussels, Belgium.
+- Currently studying at [19 coding school](http://www.s19.be) ([42 network](https://42.fr/en/homepage/)).
+- Currently learning C++.
 
 <!--
 **artmende/artmende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
