@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Artur
 
 - Programmer based in Brussels, Belgium.
-- Currently studying at [19 coding school](http://www.s19.be) ([42 network](https://42.fr/en/homepage/)).
+- Student at [19 coding school](http://www.s19.be) ([42 network](https://42.fr/en/homepage/)).
 - Currently learning C++.
 
 <!--
