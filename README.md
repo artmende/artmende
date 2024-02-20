@@ -2,7 +2,6 @@
 
 - Programmer based in Brussels, Belgium.
 - Student at [19 coding school](http://www.s19.be) ([42 network](https://42.fr/en/homepage/)).
-- Currently learning C++.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artmende&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
